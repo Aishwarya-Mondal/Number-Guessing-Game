@@ -1,2 +1,3 @@
 # Python-mini-project
-Number Guessing Game.
+- Number Guessing Game.
+- Mad Libs Generator.
