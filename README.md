@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-User have to guess the number.
+Number guessing game using Python. This is a popular game where the user has to guess the number in a range.
